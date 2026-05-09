@@ -3,6 +3,8 @@ This notebook is an exploration of instrumental variables and two-stage least sq
 
 ## Synthetic data structure
 ```mermaid
+flowchart LR
+
 dtc[Distance to college]
 motivation[Motivation]
 yoe[Years of education]
